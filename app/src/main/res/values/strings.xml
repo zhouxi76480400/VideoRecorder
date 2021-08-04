@@ -4,4 +4,16 @@
     <string name="dialog_message_error">需要同意所有權限</string>
     <string name="dialog_retry">重試</string>
     <string name="dialog_exit">退出</string>
+
+    <string name="dialog_title_goto_system_permission_settings">權限問題</string>
+    <string name="dialog_message_goto_system_permission_settings">需要去系統設定打開權限</string>
+    <string name="dialog_goto_system_settings">打開設定</string>
+
+    <string name="txt_permission_request_error">請求權限時發生錯誤</string>
+
+    <string name="play_stop">停</string>
+
+    <string name="recording_now">防犯カメラ\n录画中</string>
+    <string name="saved_success">保存好了</string>
+
 </resources>

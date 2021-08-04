@@ -16,7 +16,7 @@
         android:theme="@style/Theme.VideoRecorder">
         <activity android:name=".MainActivity"
             android:configChanges="orientation"
-            android:screenOrientation="userLandscape"
+            android:screenOrientation="landscape"
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
