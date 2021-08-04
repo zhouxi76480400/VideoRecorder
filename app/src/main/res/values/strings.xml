@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoRecorder</string>
+    <string name="dialog_title_error">錯誤</string>
+    <string name="dialog_message_error">需要同意所有權限</string>
+    <string name="dialog_retry">重試</string>
+    <string name="dialog_exit">退出</string>
+</resources>
