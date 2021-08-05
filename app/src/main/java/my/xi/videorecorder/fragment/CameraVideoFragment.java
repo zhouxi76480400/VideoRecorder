@@ -385,7 +385,8 @@ public abstract class CameraVideoFragment extends BaseFragment {
             /**
              * default front camera will activate
              */
-            String cameraId = manager.getCameraIdList()[1];
+//            String cameraId = manager.getCameraIdList()[1];
+            String cameraId = manager.getCameraIdList()[0];
 
             CameraCharacteristics characteristics = manager.getCameraCharacteristics(cameraId);
             StreamConfigurationMap map = characteristics
